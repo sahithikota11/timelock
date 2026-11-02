@@ -24,9 +24,10 @@ In the future, I would like to add:
 
 These features are not part of the first version, but they could make the application more interesting to use.
 
-Tech Stack:
--Java: Main programming language used to build the application.
--Java Time (`LocalDate`): Used to work with unlock dates.
--Java NIO (`Files` and `Path`): Used to save and read capsule data.
--Java Scanner: Used to track changes and store the project
+Tech Stack
 
+-Java: Main programming language used to build the application.
+-Java Time (LocalDate): Used to work with unlock dates.
+-Java NIO (Files and Path): Used to save and read capsule data.
+-Java Scanner: Used to collect input from the user.
+-Git and GitHub: Used to track changes and store the project online.
