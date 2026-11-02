@@ -4,7 +4,7 @@
 
 TIMELOCK is a digital time capsule application where users can save personal messages for their future selves. Users can write a message, give their capsule a title, and choose a date when they want to open it.
 
-The idea behind this project is that people often take pictures or write about their experiences but don't always go back and look at them. TIMELOCK gives users a more poignant way to save their thoughts and revisit them at a later point in their lives.
+The idea behind this project is that people often take pictures or write about their experiences but don't always go back and look at them. TIMELOCK gives users a better way to save their thoughts and revisit them at a later point in their lives.
 
 ## MVP Features
 
